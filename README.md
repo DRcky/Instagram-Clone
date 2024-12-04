@@ -1,7 +1,16 @@
-Instagram clone:
+📸 Instagram Clone
+Este es un proyecto de clonación de Instagram, diseñado para replicar las funcionalidades principales de la plataforma mientras se añaden nuevas características únicas. 
 
-Este es un proyecto creado con fines estudiantiles.
-
-El proyecto esta basado en la famosa red social instagram. Estamos intentaod replicar la mayoria de funcionaidades que se puede utilizar en la red social, ya sea registro, inicio de sesion, scroll, etc.
-
-Proyecto creado por: Ricky De La Cruz 2018-1405.
+✨ Características principales
+Funcionalidades básicas de Instagram:
+✅ Subir fotos y videos.
+✅ Crear perfiles de usuario con biografía, foto de perfil y enlaces.
+✅ Seguir y dejar de seguir usuarios.
+✅ Feed de publicaciones en orden cronológico.
+✅ Reacciones y comentarios en publicaciones.
+Funcionalidades adicionales:
+🚀 Edición avanzada de fotos y videos: Filtros personalizados y herramientas para mejorar imágenes.
+🚀 Modo temático: Alternar entre modo claro y oscuro.
+🚀 Historias con animaciones personalizadas.
+🚀 Mensajería directa con cifrado.
+🚀 Notificaciones en tiempo real: Mantente actualizado con actividades de tu red.
